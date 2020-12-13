@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
                   child: Text('Send Message'),
                   onPressed: () {
                     launcWhatsApp(
-                        number: '+905555555555',
+                        number: '+905378358801',
                         message:
                             'Bu Adresten bana ulaşabilirsiniz. http://celalkutluer.com.tr/');
                   },
